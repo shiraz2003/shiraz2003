@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am cuurently a student who is passionate in cyber security and software engineering
+ I am cuurently a student who is passionate in cyber security and software engineering
 
 
 ## 🌐 Socials:
